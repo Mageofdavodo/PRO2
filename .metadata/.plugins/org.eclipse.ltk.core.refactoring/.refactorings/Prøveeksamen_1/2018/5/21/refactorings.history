@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;hotelPane&apos; in &apos;gui.KampWindow.initContent(...)&apos; to &apos;kampPane&apos;&#x0D;&#x0A;- Original project: &apos;Prøveeksamen_1&apos;&#x0D;&#x0A;- Original element: &apos;gui.KampWindow.initContent(GridPane).hotelPane&apos;&#x0D;&#x0A;- Renamed element: &apos;hotelPane&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;hotelPane&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;gui{KampWindow.java[KampWindow~initContent~QGridPane;@hotelPane!708!743!717!725!QGridPane;!0!false" name="kampPane" references="true" stamp="1526814555644" version="1.0"/>
+</session>

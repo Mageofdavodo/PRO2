@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;maxSum&apos; in &apos;model.Nedbør.besteTreFerieUger()&apos; to &apos;minSum&apos;&#x0D;&#x0A;- Original project: &apos;04_ Tidskompleksitet&apos;&#x0D;&#x0A;- Original element: &apos;model.Nedbør.besteTreFerieUger().maxSum&apos;&#x0D;&#x0A;- Renamed element: &apos;maxSum&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;maxSum&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;model{Nedbør.java[Nedbør~besteTreFerieUger@maxSum!528!542!532!537!I!0!false" name="minSum" references="true" stamp="1535886177052" version="1.0"/>
+</session>

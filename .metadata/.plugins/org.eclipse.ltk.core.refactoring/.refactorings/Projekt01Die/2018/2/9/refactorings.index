@@ -1,0 +1,8 @@
+1519631520206	Delete element
+1519631909710	Delete element
+1519806146339	Encapsulate field 'name'
+1519806153012	Encapsulate field 'sum'
+1519806156663	Encapsulate field 'score'
+1519807141095	Rename field 'playerOneTurn'
+1519807151104	Rename field 'Turn'
+1519813989544	Encapsulate field 'bot'

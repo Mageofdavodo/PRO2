@@ -1,0 +1,7 @@
+package opgave04_Comparator;
+
+import java.util.Comparator;
+
+public class StuderendeComparator implements Comparator<Studerende>() {
+
+}

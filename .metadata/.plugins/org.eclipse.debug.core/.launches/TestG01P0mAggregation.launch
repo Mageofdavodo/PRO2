@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Lektion21_Sammenhæng_mellem_klasser_2/src/aggregation_group01_personmany/TestG01P0mAggregation.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="aggregation_group01_personmany.TestG01P0mAggregation"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Lektion21_Sammenhæng_mellem_klasser_2"/>
+</launchConfiguration>

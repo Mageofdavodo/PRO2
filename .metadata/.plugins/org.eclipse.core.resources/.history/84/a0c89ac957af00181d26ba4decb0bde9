@@ -1,0 +1,24 @@
+package opgave02_studerende_Skole;
+
+import java.util.LinkedList;
+
+public class Skole {
+
+    private String navn;
+    private LinkedList<Studerende> studerendeList
+
+    public Skole(String navn) {
+        this.navn = navn;
+        studerendeList = new LinkedList<>();
+
+    }
+
+    public String getNavn() {
+        return navn;
+    }
+
+    public void addStuderende(Studerende s) {
+        this.studerendeList.add(s);
+    }
+
+}

@@ -1,0 +1,21 @@
+package opgave02_studerende_Skole;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Skole skole = new Skole("Skolen skole");
+        Studerende s1 = new Studerende(1, "Torben");
+        Studerende s2 = new Studerende(2, "Michael");
+        Studerende s3 = new Studerende(3, "Kennet");
+        Studerende s4 = new Studerende(4, "Peter");
+        s1.addKarakter(12);
+        s1.addKarakter(7);
+        s2.addKarakter(2);
+        s2.addKarakter(4);
+        s3.addKarakter(7);
+        s3.addKarakter(7);
+        
+        System.out.println(skole.gennemsnit());
+    }
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Opgave1.java&apos; to &apos;Lektion06if-statement/src/Opgaver06&apos;&#x0D;&#x0A;- Original project: &apos;Lektion06if-statement&apos;&#x0D;&#x0A;- Destination element: &apos;Lektion06if-statement/src/Opgaver06&apos;&#x0D;&#x0A;- Original element: &apos;Opgaver06.Opgave1.java&apos;" description="Copy compilation unit" destination="/src&lt;Opgaver06" element1="/src&lt;Opgaver06{Opgave1.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1518600929641" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;orderSystem&apos; to &apos;Lektion25_Inferface_Type/src&apos;&#x0D;&#x0A;- Original project: &apos;Lektion23_Nedarvning&apos;&#x0D;&#x0A;- Destination element: &apos;Lektion25_Inferface_Type/src&apos;&#x0D;&#x0A;- Original element: &apos;Lektion23_Nedarvning/src/orderSystem&apos;" description="Copy package" destination="=Lektion25_Inferface_Type/src" element1="/src&lt;orderSystem" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1523872578232" version="1.0"/>
+</session>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="9" key="DIALOG_X_ORIGIN"/>
+		<item value="9" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.preferences.keysPreferencePage">
+		<item value="true" key="actionSetFilter"/>
+		<item value="true" key="uncategorizedFilter"/>
+		<item value="true" key="internalFilter"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="-1" key="dialogHeight"/>
+		<item value="-1" key="dialogWidth"/>
+		<list key="textEntries">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.debug.ui.snippetEditor.NewSnippetFileCreationWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.eclipse.jdt.ui.java/org.eclipse.jdt.debug.ui.java"/>
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.jdt.internal.ui.jarpackager.JarPackageWizard" key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID"/>
+		<item value="org.eclipse.ui.wizards.import.ZipFile" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jdt.ui.Java"/>
+			<item value="org.eclipse.mylyn.tasks.ui.wizards.export.category"/>
+			<item value="org.eclipse.wst.XMLCategory"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+		<item value="false" key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="E:\Downloads\Nedbør.jar"/>
+			<item value="E:\Downloads\FlettesorteringMedTODO.jar"/>
+			<item value="E:\Downloads\[JF] 12 source code.jar"/>
+			<item value="E:\EAAA - DMU\sem. 1\PRO1\Eksamen\Eksamen_1semester_MichaelK.jar"/>
+			<item value="E:\Downloads\ch13.zip"/>
+			<item value="E:\Downloads\Eksamen_1semester_MichaelK.jar"/>
+			<item value="E:\Downloads\Prøveeksamen_medFletning.jar"/>
+			<item value="E:\Downloads\MeasureSort.jar"/>
+			<item value="E:\Downloads\Customer.jar"/>
+			<item value="E:\Downloads\TilstandeBankSystemElev.jar"/>
+			<item value="E:\Downloads\projekt3_KAS_Gruppe6_Final.jar"/>
+			<item value="E:\Downloads\ttt.jar"/>
+			<item value="E:\Downloads\ListView Driller.jar"/>
+			<item value="E:\Downloads\morten.jar"/>
+			<item value="E:\Downloads\Tom_-_Storage.jar"/>
+			<item value="E:\Downloads\26-4 Konference.jar"/>
+			<item value="E:\Downloads\Aflevering d. 30-04-18 Konferencev2.jar"/>
+			<item value="E:\Downloads\Aflevering d. 30-04-18 Konference.jar"/>
+			<item value="E:\Downloads\Soegning.jar"/>
+			<item value="E:\Downloads\InterfaceExample.jar"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,19 @@
+1525007740886	Rename method 'updateKonferenceControls'
+1525007802152	Rename local variable 'konferencePane'
+1525007815258	Rename local variable 'konferencePane'
+1525007836903	Rename local variable 'konferencePane'
+1525007860082	Rename local variable 'tabKonference'
+1525008063555	Rename method 'updateKonferenceControls'
+1525009017929	Rename method 'createAction'
+1525009139774	Rename method 'tilføjHotel'
+1525071206152	Rename method 'opretBooking'
+1525071682797	Rename method 'removeKonference'
+1525071693680	Rename method 'removeDeltager'
+1525071775549	Rename method 'deleteDeltager'
+1525071785722	Rename method 'deleteKonference'
+1525072455965	Rename type 'TilmeldDeltagerPane'
+1525072622256	Rename type 'TilmeldingWindow'
+1525072645962	Delete element
+1525073209893	Rename method 'setContentTilmelding'
+1525080874507	Copy packages
+1525081561537	Delete elements

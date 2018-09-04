@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 0 elements to &apos;Prøveeksamen_4_2017_netcafe/src/gui&apos;&#x0D;&#x0A;- Destination element: &apos;Prøveeksamen_4_2017_netcafe/src/gui&apos;" description="Copy compilation units" destination="=Prøveeksamen_4_2017_netcafe/src&lt;gui" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1529055194520" units="0" version="1.0"/>
+</session>
