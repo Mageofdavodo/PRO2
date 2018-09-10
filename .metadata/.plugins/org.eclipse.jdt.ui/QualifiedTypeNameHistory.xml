@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="Storage.Storage"/>
-<fullyQualifiedTypeName name="java.util.Date"/>
-<fullyQualifiedTypeName name="javafx.util.converter.LocalDateStringConverter"/>
-<fullyQualifiedTypeName name="models.Gæst"/>
 <fullyQualifiedTypeName name="models.Bestilling"/>
 <fullyQualifiedTypeName name="models.BestillingsLinje"/>
 <fullyQualifiedTypeName name="models.Uddannelse"/>
@@ -60,4 +56,8 @@
 <fullyQualifiedTypeName name="java.util.TreeSet"/>
 <fullyQualifiedTypeName name="java.util.TreeMap"/>
 <fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="org.junit.Before"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="opgave01_bilforsikring.Bilforsikring"/>
+<fullyQualifiedTypeName name="opgave01_forsikring.Bilforsikring"/>
 </qualifiedTypeNameHistroy>

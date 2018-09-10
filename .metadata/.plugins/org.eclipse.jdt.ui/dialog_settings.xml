@@ -14,7 +14,7 @@
 	<item value="4" key="clean_up_save_particpant_modify_dialog.last_focus"/>
 	<item value="2" key="org.eclipse.jdt.uiformatter_page.line_wrapping_tab_page.last_category_index"/>
 	<item value="154" key="org.eclipse.jdt.uiformatter_page.white_space.java_view.inner"/>
-	<item value="0" key="org.eclipse.jdt.ui.last.selected.jre.kind2"/>
+	<item value="1" key="org.eclipse.jdt.ui.last.selected.jre.kind2"/>
 	<section name="org.eclipse.ltk.ui.refactoring.settings">
 		<item value="false" key="renameSubpackages"/>
 		<item value="false" key="updateQualifiedNames"/>

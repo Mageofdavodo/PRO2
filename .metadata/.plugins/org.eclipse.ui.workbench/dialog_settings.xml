@@ -30,7 +30,7 @@
 	</section>
 	<section name="ImportExportAction">
 		<item value="org.eclipse.jdt.internal.ui.jarpackager.JarPackageWizard" key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID"/>
-		<item value="org.eclipse.ui.wizards.import.ExternalProject" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<item value="org.eclipse.ui.wizards.import.ZipFile" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
 		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
 			<item value="org.eclipse.ui.Basic"/>
 		</list>
@@ -44,6 +44,8 @@
 	<section name="ZipFileImportWizard">
 		<item value="false" key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
 		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="E:\Downloads\Bilforsikring.jar"/>
+			<item value="E:\Downloads\TestNoteKode.jar"/>
 			<item value="E:\Downloads\Nedbør.jar"/>
 			<item value="E:\Downloads\FlettesorteringMedTODO.jar"/>
 			<item value="E:\Downloads\[JF] 12 source code.jar"/>
@@ -62,8 +64,6 @@
 			<item value="E:\Downloads\26-4 Konference.jar"/>
 			<item value="E:\Downloads\Aflevering d. 30-04-18 Konferencev2.jar"/>
 			<item value="E:\Downloads\Aflevering d. 30-04-18 Konference.jar"/>
-			<item value="E:\Downloads\Soegning.jar"/>
-			<item value="E:\Downloads\InterfaceExample.jar"/>
 		</list>
 	</section>
 	<section name="FileSystemImportWizard">
