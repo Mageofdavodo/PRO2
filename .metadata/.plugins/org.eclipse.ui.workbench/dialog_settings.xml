@@ -44,6 +44,7 @@
 	<section name="ZipFileImportWizard">
 		<item value="false" key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
 		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="E:\Downloads\Calculator.jar"/>
 			<item value="E:\Downloads\Bilforsikring.jar"/>
 			<item value="E:\Downloads\TestNoteKode.jar"/>
 			<item value="E:\Downloads\Nedbør.jar"/>
@@ -63,7 +64,6 @@
 			<item value="E:\Downloads\Tom_-_Storage.jar"/>
 			<item value="E:\Downloads\26-4 Konference.jar"/>
 			<item value="E:\Downloads\Aflevering d. 30-04-18 Konferencev2.jar"/>
-			<item value="E:\Downloads\Aflevering d. 30-04-18 Konference.jar"/>
 		</list>
 	</section>
 	<section name="FileSystemImportWizard">
