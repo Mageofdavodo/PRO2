@@ -30,7 +30,7 @@ public class Main {
         System.out.println("Gennemsnit " + skole.gennemsnit());
 
         System.out.println("Finder Michael med studieNr 2: " + skole.findStuderende(2));
-        .sort(skole.getStuderendeList(), new StuderendeComparator());
+        // .sort(skole.getStuderendeList(), new StuderendeComparator());
     }
 
 }

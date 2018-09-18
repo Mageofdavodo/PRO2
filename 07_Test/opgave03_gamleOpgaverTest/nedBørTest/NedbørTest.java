@@ -17,17 +17,17 @@ public class NedbørTest {
     }
 
     @Test
-    public void besteTreFerieUger() {
+    public void besteTreFerieUgerTest() {
         assertEquals(30, nb.besteTreFerieUger());
     }
 
     @Test
-    public void bedsteTreFerieUgerStart() {
+    public void bedsteTreFerieUgerStartTest() {
         assertEquals(23, nb.bedsteFerieUgerStart(6));
     }
 
     @Test
-    public void mestEnsNedboer() {
+    public void mestEnsNedboerTest() {
         assertEquals(43, nb.mestEnsNedboer());
     }
 }

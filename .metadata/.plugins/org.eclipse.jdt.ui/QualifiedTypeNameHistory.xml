@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="models.Hold"/>
-<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
-<fullyQualifiedTypeName name="models.Tutor"/>
-<fullyQualifiedTypeName name="models.KonsolPlads"/>
-<fullyQualifiedTypeName name="models.Arrangement"/>
-<fullyQualifiedTypeName name="java.time.LocalDateTime"/>
-<fullyQualifiedTypeName name="javafx.scene.control.RadioButton"/>
-<fullyQualifiedTypeName name="javafx.scene.control.ToggleGroup"/>
-<fullyQualifiedTypeName name="models.Plads"/>
-<fullyQualifiedTypeName name="models.Medlem"/>
-<fullyQualifiedTypeName name="models.Reservation"/>
-<fullyQualifiedTypeName name="models.Bane"/>
 <fullyQualifiedTypeName name="java.time.LocalTime"/>
 <fullyQualifiedTypeName name="javafx.scene.control.DatePicker"/>
 <fullyQualifiedTypeName name="models.Område"/>
@@ -20,7 +8,6 @@
 <fullyQualifiedTypeName name="javafx.stage.Stage"/>
 <fullyQualifiedTypeName name="java.io.PrintWriter"/>
 <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
-<fullyQualifiedTypeName name="storage.Storage"/>
 <fullyQualifiedTypeName name="models.PraktikKontrakt"/>
 <fullyQualifiedTypeName name="models.AnalyseOpgave"/>
 <fullyQualifiedTypeName name="models.TekniskOpgave"/>
@@ -35,9 +22,7 @@
 <fullyQualifiedTypeName name="opgave_p12_1.Rectangle"/>
 <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
 <fullyQualifiedTypeName name="java.io.File"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="opgave01_SummereList.Main"/>
-<fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="java.util.LinkedList"/>
 <fullyQualifiedTypeName name="opgave02_studerende_Skole.Skole"/>
 <fullyQualifiedTypeName name="opgave02_studerende_Skole.Studerende"/>
@@ -58,6 +43,21 @@
 <fullyQualifiedTypeName name="java.time.temporal.ChronoUnit"/>
 <fullyQualifiedTypeName name="opgave_03_PrefixMetode.Prefix"/>
 <fullyQualifiedTypeName name="nedBør.Nedbør"/>
+<fullyQualifiedTypeName name="storage.Storage"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="ordination.PN"/>
+<fullyQualifiedTypeName name="ordination.DagligFast"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="ordination.Dagstidspunkt"/>
+<fullyQualifiedTypeName name="ordination.Dosis"/>
+<fullyQualifiedTypeName name="ordination.Ordination"/>
+<fullyQualifiedTypeName name="java.time.DateTimeException"/>
+<fullyQualifiedTypeName name="ordination.Patient"/>
+<fullyQualifiedTypeName name="javafx.beans.binding.IntegerExpression"/>
+<fullyQualifiedTypeName name="java.lang.IllegalAccessException"/>
 <fullyQualifiedTypeName name="org.junit.Before"/>
 <fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="controller.Controller"/>
+<fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
 </qualifiedTypeNameHistroy>
