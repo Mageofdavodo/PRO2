@@ -42,7 +42,7 @@ public class JAVAexamples {
     public static void selectmedparm() {
         try {
             // Indl�ser s�gestreng
-            System.out.println("Indtast s�gestreng");
+            System.out.println("Indtast init");
             String inString = inLine.readLine();
             // Laver sql-s�tning og f�r den udf�rt
             String sql = "select p.aarstal,isnull(p.plac, 0) from placering p where p.init like '" + inString + "%'";
