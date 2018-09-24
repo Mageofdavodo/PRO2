@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="models.AnalyseOpgave"/>
-<fullyQualifiedTypeName name="models.TekniskOpgave"/>
-<fullyQualifiedTypeName name="models.PraktikOpgave"/>
-<fullyQualifiedTypeName name="service.Service"/>
-<fullyQualifiedTypeName name="javafx.scene.control.Label"/>
-<fullyQualifiedTypeName name="javafx.scene.control.TextField"/>
 <fullyQualifiedTypeName name="javafx.scene.control.ListView"/>
 <fullyQualifiedTypeName name="models.PraktikVirksomhed"/>
 <fullyQualifiedTypeName name="javafx.scene.control.Button"/>
@@ -17,7 +11,6 @@
 <fullyQualifiedTypeName name="java.util.LinkedList"/>
 <fullyQualifiedTypeName name="opgave02_studerende_Skole.Skole"/>
 <fullyQualifiedTypeName name="opgave02_studerende_Skole.Studerende"/>
-<fullyQualifiedTypeName name="java.util.HashSet"/>
 <fullyQualifiedTypeName name="java.util.Map"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
@@ -25,7 +18,6 @@
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.util.TreeSet"/>
 <fullyQualifiedTypeName name="java.util.TreeMap"/>
-<fullyQualifiedTypeName name="java.util.Set"/>
 <fullyQualifiedTypeName name="opgave01_bilforsikring.Bilforsikring"/>
 <fullyQualifiedTypeName name="opgave01_forsikring.Bilforsikring"/>
 <fullyQualifiedTypeName name="model.Bibliotek"/>
@@ -60,4 +52,12 @@
 <fullyQualifiedTypeName name="observerOpgave.Saelger"/>
 <fullyQualifiedTypeName name="javafx.beans.Observable"/>
 <fullyQualifiedTypeName name="java.util.Observable"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="model.Person"/>
+<fullyQualifiedTypeName name="model.PersonAdministrator"/>
+<fullyQualifiedTypeName name="model.ElVare"/>
+<fullyQualifiedTypeName name="model.FoedeVare"/>
+<fullyQualifiedTypeName name="model.Spiritus"/>
+<fullyQualifiedTypeName name="model.SpiritusAdapter"/>
 </qualifiedTypeNameHistroy>
