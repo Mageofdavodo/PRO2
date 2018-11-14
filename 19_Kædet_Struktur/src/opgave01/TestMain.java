@@ -16,7 +16,6 @@ public class TestMain {
         System.out.println(list.countElements());
 
         // addAll
-
         SortedLinkedList list2 = new SortedLinkedList();
         list2.addElement("bananer");
         list2.addElement("pære");

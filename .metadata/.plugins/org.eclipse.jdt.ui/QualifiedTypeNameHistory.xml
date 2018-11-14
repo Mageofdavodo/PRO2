@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="models.PraktikVirksomhed"/>
-<fullyQualifiedTypeName name="javafx.scene.control.Button"/>
-<fullyQualifiedTypeName name="javafx.scene.layout.VBox"/>
 <fullyQualifiedTypeName name="opgave_p12_1.Rectangle"/>
 <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
 <fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="opgave01_SummereList.Main"/>
-<fullyQualifiedTypeName name="java.util.LinkedList"/>
 <fullyQualifiedTypeName name="opgave02_studerende_Skole.Skole"/>
 <fullyQualifiedTypeName name="opgave02_studerende_Skole.Studerende"/>
 <fullyQualifiedTypeName name="java.util.Map"/>
@@ -60,4 +56,8 @@
 <fullyQualifiedTypeName name="model.Spiritus"/>
 <fullyQualifiedTypeName name="model.SpiritusAdapter"/>
 <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="javafx.scene.Node"/>
+<fullyQualifiedTypeName name="java.util.ListIterator"/>
+<fullyQualifiedTypeName name="opgave01.SortedLinkedList"/>
 </qualifiedTypeNameHistroy>

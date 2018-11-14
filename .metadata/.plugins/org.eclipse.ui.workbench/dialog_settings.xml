@@ -44,6 +44,8 @@
 	<section name="ZipFileImportWizard">
 		<item value="false" key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
 		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="E:\Downloads\generic_example.jar"/>
+			<item value="E:\Downloads\cityList.jar"/>
 			<item value="E:\Downloads\evaluator_javafx.jar"/>
 			<item value="E:\Downloads\Architecture1stSem (1).jar"/>
 			<item value="E:\Downloads\Lektion10.jar"/>
@@ -62,8 +64,6 @@
 			<item value="E:\Downloads\MeasureSort.jar"/>
 			<item value="E:\Downloads\Customer.jar"/>
 			<item value="E:\Downloads\TilstandeBankSystemElev.jar"/>
-			<item value="E:\Downloads\projekt3_KAS_Gruppe6_Final.jar"/>
-			<item value="E:\Downloads\ttt.jar"/>
 		</list>
 	</section>
 	<section name="FileSystemImportWizard">
