@@ -44,6 +44,7 @@
 	<section name="ZipFileImportWizard">
 		<item value="false" key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
 		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\Inzta\OneDrive\Desktop\20_saved.jar"/>
 			<item value="E:\Downloads\generic_example.jar"/>
 			<item value="E:\Downloads\cityList.jar"/>
 			<item value="E:\Downloads\evaluator_javafx.jar"/>
@@ -63,7 +64,6 @@
 			<item value="E:\Downloads\Prøveeksamen_medFletning.jar"/>
 			<item value="E:\Downloads\MeasureSort.jar"/>
 			<item value="E:\Downloads\Customer.jar"/>
-			<item value="E:\Downloads\TilstandeBankSystemElev.jar"/>
 		</list>
 	</section>
 	<section name="FileSystemImportWizard">
