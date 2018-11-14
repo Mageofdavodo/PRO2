@@ -75,8 +75,6 @@ public class SortedLinkedList {
         return found;
     }
 
-    // Opgave 3-------------------------------
-
     /**
      * Tilføjer alle elementerne fra list til den aktuelle liste. Listen er
      * fortsat sorteret i henhold til den naturlige ordning på elementerne.
