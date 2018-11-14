@@ -26,6 +26,7 @@ public class MainApp {
         System.out.println(personer);
         Collections.sort(personer);
         System.out.println(personer);
+        System.out.println("fisk");
     }
 
 }
