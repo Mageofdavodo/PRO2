@@ -1,7 +1,6 @@
 package test;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 
 import model.Navn;
@@ -26,7 +25,6 @@ public class MainApp {
         System.out.println(personer);
         Collections.sort(personer);
         System.out.println(personer);
-        System.out.println("fisk");
     }
 
 }

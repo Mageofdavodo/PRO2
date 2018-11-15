@@ -19,6 +19,7 @@ public class Main {
     public static void main(String[] args) {
         String s = "Fisk";
         System.out.println(reverseString(s));
+        System.out.println();
 
     }
 
